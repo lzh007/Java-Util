@@ -8,8 +8,9 @@
 + HttpUtil				HTTP客户端
 + JsonUtils 			Json转换
 + MD5Utils 				MD5加密
-+ RegexUtil				格式校验（身份证、邮箱等）
++ RegexUtil				正则表达式（身份证、邮箱等）
 + SHAUtils				SHA 加密
 + SnowflakeIdUtil		分布式ID随机生产
 + StringUtil			字符串处理
 + UUIDUtil				ID 生产
++ Page					分页工具类
